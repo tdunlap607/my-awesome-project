@@ -10,4 +10,4 @@ if __name__ == '__main__':
 
     print(pytorch_lightning_version)
 
-    print("done")
+    print("checkpoint")
